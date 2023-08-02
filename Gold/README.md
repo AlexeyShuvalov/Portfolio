@@ -22,7 +22,7 @@
 - sklearn.preprocessing.**StandardScaler**
 - sklearn.impute.**KNNImputer**
 - sklearn.linear_model.**LinearRegression**
-- statsmodels.stats.outliers_influence.**variance_inflation_factor**
+- statsmodels.stats.outliers_influence.**variance_inflation_factor** 
 - **matplotlib**
 
 ## 
